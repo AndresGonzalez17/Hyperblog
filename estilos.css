@@ -14,4 +14,32 @@ body
     padding: 1em;
     width: auto;
     margin: 0 auto;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#cabecera {
+    background-color: red;
+    box-shadow: 3px 5px 10px pink;
+    color: white;
+    font-weight: bold;
+    padding: 0,5em;
+    margin: 0;
+}
+#cabecera #tagline {
+    padding: 1em 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+#container h1 {
+    font-size: 20px;
 }
