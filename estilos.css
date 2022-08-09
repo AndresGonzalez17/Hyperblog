@@ -54,3 +54,10 @@ body
     background: white;
     padding: 1em;
 }
+p .team {
+    object-fit: contain;
+    max-width: 800;
+    max-height: 800px;
+    justify-items: center;
+    padding-left: 30px;
+}
